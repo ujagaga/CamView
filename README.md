@@ -1,5 +1,5 @@
 # CamView
-A simple python script to display web camera image
+A simple python script to display web camera image. If you have more than one camera, press a number between 0-9 to try to open another one.
 
 Written for python3. Depends on Open cv library.
 
